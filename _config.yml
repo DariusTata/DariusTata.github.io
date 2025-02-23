@@ -26,11 +26,13 @@ author:
   name             : "Darius Tata"
   pronouns         : # example: "she/her"  
   bio              : "Interdisciplinary Postgraduate Student"
-  location         : "London, UK;\nBrighton, UK"
+  location         : "London & Brighton, UK"
   employer         : "LIS"
   uri              : #"lis.ac.uk"
   
   ## Custom sorting
+    ##This custom sorting doesnt work yet.
+    ## Seemingly the sorting in not handled by the ordering found in this file.
   linkedin         : "darius-tata" ## Username
   github           : "DariusTata"
   email            : "darius.tata@lis.ac.uk"
