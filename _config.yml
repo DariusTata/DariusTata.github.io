@@ -217,6 +217,8 @@ kramdown:
   enable_coderay: false
   ##parse_block_html: true  # added by DT to fix iframes not being parsed properly
                             ## then removed by DT to fix iframes again
+                            ## here is the fix:
+                            ## https://stackoverflow.com/questions/29787072/jekyll-embed-iframe-dont-work
 # These settings control the types of collections used by the template
 collections:
   teaching:
