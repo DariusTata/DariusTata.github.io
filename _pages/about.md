@@ -9,7 +9,7 @@ redirect_from:
 
 ## Landing Page
 
-#### Latest Blog Post
+### Latest Blog Post
 
 {% assign latest_post = site.posts.first %}
 **[{{ latest_post.title }}]({{ latest_post.url }})**  
